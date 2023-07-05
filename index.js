@@ -50,6 +50,7 @@ class App extends React.Component {
             `,
             output: ""
         };
+        
         this.handleChange = this.handleChange.bind(this);  //Bind 'this' keyword to handleChange method
     }
 
